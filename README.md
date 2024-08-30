@@ -1,4 +1,4 @@
-![logo]([https://github.com/200355511296/200355511296/blob/main/1.jpg](https://github.com/200355511296/200355511296/blob/main/banner.png))
+![logo](https://github.com/200355511296/200355511296/blob/main/1.jpg](https://github.com/200355511296/200355511296/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Chathuri Wasundara</h1>
 <h3 align="center">I am a first-year undergraduate pursuing an Honours degree in Software Engineering</h3>
 
