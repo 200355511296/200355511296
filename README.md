@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b9527z0nxk425bbz485f92xiccm0uhtp0yvrcmue35em&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=200355511296&label=Profile%20views&color=0e75b6&style=flat" alt="200355511296" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chathu03&label=Profile%20views&color=0e75b6&style=flat" alt="chathu03" /> </p>
 
 - 🌱 I’m currently learning **Web Developing**
 
